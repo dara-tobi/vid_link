@@ -1,0 +1,19 @@
+{
+  "name": "vid_link_bot",
+  "version": "1.0.0",
+  "description": "Get links for Twitter videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter",
+    "Video"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "twitter": "^1.7.1"
+  }
+}

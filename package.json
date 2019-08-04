@@ -4,6 +4,7 @@
   "description": "Get links for Twitter videos",
   "main": "index.js",
   "scripts": {
+    "start": "npm install && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
